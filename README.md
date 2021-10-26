@@ -5,7 +5,7 @@
 ## Responsiv
 ##  HTTPS
 ## Manifest.json
-## ServicWorkerr
+## Service-worker
 ## Instalable
 
 
