@@ -2,10 +2,10 @@
 
 ### Projet final du module PWA réalisé par Menguelti Yasmine et Daouadji Manel
 
-## Responsive
-## EN HTTPS
+## Responsiv
+##  HTTPS
 ## Manifest.json
-## Service WOrker
+## ServicWorkerr
 ## Instalable
 
 
